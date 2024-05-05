@@ -80,6 +80,7 @@
   transition: 0.3s;
   margin-top: 24px;
   align-self: flex-start;
+  outline: none;
 }
 
 .contact-right button:hover {
