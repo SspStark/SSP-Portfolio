@@ -31,6 +31,10 @@
   margin: 0;
 }
 
+.projects a {
+  text-decoration: none;
+}
+
 .project-item {
   position: relative;
   height: 220px;
