@@ -1,6 +1,7 @@
 .home {
   display: flex;
   justify-content: space-between;
+  height: 100vh;
   padding: 20px 200px;
 }
 
@@ -80,6 +81,8 @@
     padding: 30px;
     padding-bottom: 0;
     gap: 30px;
+    height: auto;
+    margin-bottom: 50px;
   }
   .home-img {
     order: 0;
