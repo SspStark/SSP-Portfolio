@@ -83,7 +83,7 @@
     padding: 30px;
     padding-bottom: 0;
     gap: 30px;
-    height: auto;
+    height: 100svh;
     margin-bottom: 50px;
   }
   .home-img {
