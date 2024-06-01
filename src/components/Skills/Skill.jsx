@@ -36,6 +36,10 @@ const Skill = () => {
         </li>
         <li className="list-item">
           <img src={react} alt="react logo" />
+          <span>React Native</span>
+        </li>
+        <li className="list-item">
+          <img src={react} alt="react logo" />
           <span>React.js</span>
         </li>
         <li className="list-item">
