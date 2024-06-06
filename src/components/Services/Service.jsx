@@ -29,7 +29,7 @@ const Service = () => {
         <li className="service-item">
           <h1>Mobile App Development</h1>
           <p>
-            Harnessing the versatility of React Native, I specialize in creating high-performance mobile applications for both iOS and Android platforms. My approach emphasizes code efficiency and cross-platform compatibility, ensuring seamless experiences across diverse devices. With fluid layouts and adaptive UI components, I guarantee an engaging user experience on every screen size. Let me bring your app vision to life with the power of React Native.
+            With React Native, I craft high-performance mobile apps for iOS and Android, focusing on efficiency and cross-platform compatibility. Using fluid layouts and adaptive UI, I ensure a seamless user experience across devices. Let's make your app idea a reality with React Native.
           </p>
         </li>
       </ul>
