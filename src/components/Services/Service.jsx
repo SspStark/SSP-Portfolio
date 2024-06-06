@@ -27,7 +27,7 @@ const Service = () => {
           </p>
         </li>
         <li className="service-item">
-          <h1>Responsive web design</h1>
+          <h1>Mobile App Development with React Native</h1>
           <p>
             Ensuring your web applications are optimized for all devices, from
             desktops to smartphones. Implementing fluid layouts, flexible grids,
