@@ -11,17 +11,16 @@
 }
 
 .skills ul {
-  display: flex;
+  display: grid;
   padding-left: 0;
   list-style-type: none;
-  justify-content: space-between;
+  grid-template-columns: repeat(8, 1fr);
   flex-wrap: wrap;
 }
 
 .list-item {
   display: flex;
   align-items: center;
-  width: 12%;
   gap: 5px;
   margin-bottom: 50px;
 }
@@ -45,8 +44,10 @@
     font-size: 30px;
     margin-bottom: 20px;
   }
+  .skills ul {
+    grid-template-columns: repeat(5, 1fr);
+  }
   .list-item {
-    width: 20%;
     margin-bottom: 30px;
   }
   .list-item img,
@@ -60,7 +61,7 @@
 }
 
 @media (max-width: 576px) {
-  .list-item {
-    width: 30%;
+  .skills ul {
+    grid-template-columns: 1fr 1fr 1fr;
   }
 }
