@@ -27,13 +27,9 @@ const Service = () => {
           </p>
         </li>
         <li className="service-item">
-          <h1>Responsive web design</h1>
+          <h1>Mobile App Development</h1>
           <p>
-            Ensuring your web applications are optimized for all devices, from
-            desktops to smartphones. Implementing fluid layouts, flexible grids,
-            and media queries to adapt to various screen sizes. Conducting
-            thorough testing to guarantee a consistent and engaging user
-            experience across different devices and browsers.
+            With React Native, I craft high-performance mobile apps for iOS and Android, focusing on efficiency and cross-platform compatibility. Using fluid layouts and adaptive UI, I ensure a seamless user experience across devices. Let's make your app idea a reality with React Native.
           </p>
         </li>
       </ul>
