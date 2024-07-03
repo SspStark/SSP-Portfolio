@@ -57,6 +57,14 @@ const Skill = () => {
           <span>Next.js</span>
         </li>
         <li className="list-item">
+          <img src={bootstrap} alt="bootstrap logo" />
+          <span>Bootstrap</span>
+        </li>
+        <li className="list-item">
+          <img src={tailwindcss} alt="tailwindcss logo" />
+          <span>TailwindCSS</span>
+        </li>
+        <li className="list-item">
           <img src={java} alt="java logo" />
           <span>Java</span>
         </li>
@@ -65,12 +73,16 @@ const Skill = () => {
           <span>Spring Boot</span>
         </li>
         <li className="list-item">
-          <img src={bootstrap} alt="bootstrap logo" />
-          <span>Bootstrap</span>
+          <img src={python} alt="python logo" />
+          <span>Python</span>
         </li>
         <li className="list-item">
-          <img src={tailwindcss} alt="tailwindcss logo" />
-          <span>TailwindCSS</span>
+          <img src={sqlite} alt="sqlite logo" />
+          <span>SQLite</span>
+        </li>
+        <li className="list-item">
+          <img src={mongodb} alt="mongodb logo" />
+          <span>MongoDB</span>
         </li>
         <li className="list-item">
           <img src={npm} alt="npm logo" />
@@ -87,18 +99,6 @@ const Skill = () => {
         <li className="list-item">
           <img src={postman} alt="postman logo" />
           <span>Postman</span>
-        </li>
-        <li className="list-item">
-          <img src={python} alt="python logo" />
-          <span>Python</span>
-        </li>
-        <li className="list-item">
-          <img src={sqlite} alt="sqlite logo" />
-          <span>SQLite</span>
-        </li>
-        <li className="list-item">
-          <img src={mongodb} alt="mongodb logo" />
-          <span>MongoDB</span>
         </li>
       </ul>
     </div>
