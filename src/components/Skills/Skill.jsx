@@ -14,6 +14,8 @@ import mongodb from '../../assets/mongodb.svg'
 import { BsGithub } from 'react-icons/bs'
 import { SiExpress } from 'react-icons/si'
 import { RiNextjsFill } from 'react-icons/ri'
+import java from '../../assets/java.svg'
+import springboot from '../../assets/springboot.png'
 
 import './Skill.css'
 
@@ -53,6 +55,14 @@ const Skill = () => {
         <li className="list-item">
           <RiNextjsFill className="skill-icon" />
           <span>Next.js</span>
+        </li>
+        <li className="list-item">
+          <img src={java} alt="java logo" />
+          <span>Java</span>
+        </li>
+        <li className="list-item">
+          <img src={springboot} alt="springboot logo" className="spring-boot" />
+          <span>Spring Boot</span>
         </li>
         <li className="list-item">
           <img src={bootstrap} alt="bootstrap logo" />

@@ -35,6 +35,10 @@
   font-size: 16px;
 }
 
+.spring-boot {
+  border-radius: 10px;
+}
+
 @media (max-width: 768px) {
   .skills {
     padding: 30px;
