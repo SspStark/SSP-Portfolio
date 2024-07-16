@@ -21,15 +21,19 @@ const Service = () => {
           <p>
             Building robust server-side applications and APIs to power your web
             applications. Expertise in server-side programming languages such as
-            Node.js, Python. Experience with backend frameworks like Express.js.
-            Utilizing databases such as MongoDB and SQL for data storage and
-            retrieval.
+            Node.js, Python and Java. Experience with backend frameworks like
+            Express.js and Spring Boot. Utilizing databases such as MongoDB and
+            SQL for data storage and retrieval.
           </p>
         </li>
         <li className="service-item">
           <h1>Mobile App Development</h1>
           <p>
-            With React Native, I craft high-performance mobile apps for iOS and Android, focusing on efficiency and cross-platform compatibility. Using fluid layouts and adaptive UI, I ensure a seamless user experience across devices. Let's make your app idea a reality with React Native.
+            With React Native, I craft high-performance mobile apps for iOS and
+            Android, focusing on efficiency and cross-platform compatibility.
+            Using fluid layouts and adaptive UI, I ensure a seamless user
+            experience across devices. Let's make your app idea a reality with
+            React Native.
           </p>
         </li>
       </ul>

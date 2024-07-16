@@ -26,11 +26,12 @@ const About = () => {
           <p>
             During my academic journey, I delved into programming and software
             development in Nxtwave, honing my problem-solving skills with
-            Python. My journey into Full Stack Development was an immersive
-            experience at Nxtwave, mastering the SQLite and MERN (MongoDB,
-            Express.js, React, Node.js) Stack—a cutting-edge technology stack
-            known for its versatility and scalability, expanding my toolkit for
-            diverse projects.
+            Python, Java. My journey into Full Stack Development was an
+            immersive experience at Nxtwave, mastering Spring Boot, SQLite, MERN
+            (MongoDB, Express.js, React, Node.js) Stack—a cutting-edge
+            technology stack known for its versatility and scalability and QA
+            with Selenium and Cucumber expanding my toolkit for diverse
+            projects.
           </p>
           <p>
             I&#39;m excited to apply my skills to real-world projects,

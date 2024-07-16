@@ -16,6 +16,8 @@ import { SiExpress } from 'react-icons/si'
 import { RiNextjsFill } from 'react-icons/ri'
 import java from '../../assets/java.svg'
 import springboot from '../../assets/springboot.png'
+import cucumber from '../../assets/cucumber.svg'
+import selenium from '../../assets/selenium.svg'
 
 import './Skill.css'
 
@@ -83,6 +85,14 @@ const Skill = () => {
         <li className="list-item">
           <img src={mongodb} alt="mongodb logo" />
           <span>MongoDB</span>
+        </li>
+        <li className="list-item">
+          <img src={selenium} alt="selenium logo" />
+          <span>Selenium</span>
+        </li>
+        <li className="list-item">
+          <img src={cucumber} alt="cucumber logo" />
+          <span>Cucumber</span>
         </li>
         <li className="list-item">
           <img src={npm} alt="npm logo" />
