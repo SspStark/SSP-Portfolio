@@ -21,7 +21,7 @@ const Home = () => {
           </AnchorLink>
           <a
             className="anchor-link"
-            href="https://drive.google.com/file/d/1VAcalZz67WZ_t5Dgt_vfWRdHC4SEItuh/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1QPRlX-qrkpUzB1kiW-r8jXW7fVcFR37v/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
